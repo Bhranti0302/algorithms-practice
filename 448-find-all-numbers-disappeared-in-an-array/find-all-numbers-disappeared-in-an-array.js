@@ -6,8 +6,8 @@ var findDisappearedNumbers = function(nums) {
     const set = new Set(nums);
     let result=[];
 
-    for(let i=0; i<nums.length; i++){
-        if(!set.has(i+1)) result.push(i+1)
+    for(let i=1; i<=nums.length; i++){
+        if(!set.has(i)) result.push(i)
     }
 
     return result;
