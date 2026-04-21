@@ -6,9 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Bhranti0302/algorithms-practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Bhranti0302/algorithms-practice/tree/master/0290-word-pattern) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Bhranti0302/algorithms-practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Bhranti0302/algorithms-practice/tree/master/0290-word-pattern) |
+## Array
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/1394-find-lucky-integer-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
