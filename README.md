@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Bhranti0302/algorithms-practice/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/Bhranti0302/algorithms-practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Bhranti0302/algorithms-practice/tree/master/0290-word-pattern) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Bhranti0302/algorithms-practice/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/Bhranti0302/algorithms-practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Bhranti0302/algorithms-practice/tree/master/0290-word-pattern) |
 ## Array
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Bhranti0302/algorithms-practice/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Bhranti0302/algorithms-practice/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
