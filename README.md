@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Bhranti0302/algorithms-practice/tree/master/3225-maximum-score-from-grid-operations) |
 ## Counting
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Bhranti0302/algorithms-practice/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Bhranti0302/algorithms-practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/1480-running-sum-of-1d-array) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Bhranti0302/algorithms-practice/tree/master/3225-maximum-score-from-grid-operations) |
 ## Design
 |  |
 | ------- |
@@ -64,8 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Bhranti0302/algorithms-practice/tree/master/3225-maximum-score-from-grid-operations) |
 ## Sorting
 |  |
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3225-maximum-score-from-grid-operations](https://github.com/Bhranti0302/algorithms-practice/tree/master/3225-maximum-score-from-grid-operations) |
 <!---LeetCode Topics End-->
