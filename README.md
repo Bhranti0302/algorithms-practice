@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Bhranti0302/algorithms-practice/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/Bhranti0302/algorithms-practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Bhranti0302/algorithms-practice/tree/master/0290-word-pattern) |
+| [0796-rotate-string](https://github.com/Bhranti0302/algorithms-practice/tree/master/0796-rotate-string) |
 ## Array
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0788-rotated-digits](https://github.com/Bhranti0302/algorithms-practice/tree/master/0788-rotated-digits) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Bhranti0302/algorithms-practice/tree/master/3225-maximum-score-from-grid-operations) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Bhranti0302/algorithms-practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
