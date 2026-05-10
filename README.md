@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhranti0302/algorithms-practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Bhranti0302/algorithms-practice/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Bhranti0302/algorithms-practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Bhranti0302/algorithms-practice/tree/master/0290-word-pattern) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Bhranti0302/algorithms-practice/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Bhranti0302/algorithms-practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Bhranti0302/algorithms-practice/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Bhranti0302/algorithms-practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Bhranti0302/algorithms-practice/tree/master/0290-word-pattern) |
 | [0796-rotate-string](https://github.com/Bhranti0302/algorithms-practice/tree/master/0796-rotate-string) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhranti0302/algorithms-practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Bhranti0302/algorithms-practice/tree/master/0013-roman-to-integer) |
 | [0788-rotated-digits](https://github.com/Bhranti0302/algorithms-practice/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Depth-First Search
