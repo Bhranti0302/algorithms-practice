@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhranti0302/algorithms-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Bhranti0302/algorithms-practice/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/2553-separate-the-digits-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhranti0302/algorithms-practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
