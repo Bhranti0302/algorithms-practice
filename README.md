@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Bhranti0302/algorithms-practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Bhranti0302/algorithms-practice/tree/master/0290-word-pattern) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/Bhranti0302/algorithms-practice/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/Bhranti0302/algorithms-practice/tree/master/2784-check-if-array-is-good) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Bhranti0302/algorithms-practice/tree/master/3225-maximum-score-from-grid-operations) |
 ## Counting
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2784-check-if-array-is-good](https://github.com/Bhranti0302/algorithms-practice/tree/master/2784-check-if-array-is-good) |
 ## Dynamic Programming
 |  |
 | ------- |
