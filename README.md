@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Bhranti0302/algorithms-practice/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/Bhranti0302/algorithms-practice/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Bhranti0302/algorithms-practice/tree/master/0724-find-pivot-index) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Bhranti0302/algorithms-practice/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
