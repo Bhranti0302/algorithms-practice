@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Bhranti0302/algorithms-practice/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhranti0302/algorithms-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/Bhranti0302/algorithms-practice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhranti0302/algorithms-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Bhranti0302/algorithms-practice/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhranti0302/algorithms-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Bhranti0302/algorithms-practice/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bhranti0302/algorithms-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Dynamic Programming
@@ -162,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/Bhranti0302/algorithms-practice/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhranti0302/algorithms-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
