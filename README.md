@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Bhranti0302/algorithms-practice/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Bhranti0302/algorithms-practice/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/0088-merge-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/Bhranti0302/algorithms-practice/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Bhranti0302/algorithms-practice/tree/master/0724-find-pivot-index) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/0088-merge-sorted-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Bhranti0302/algorithms-practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhranti0302/algorithms-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Bhranti0302/algorithms-practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhranti0302/algorithms-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Bhranti0302/algorithms-practice/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/0088-merge-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Bhranti0302/algorithms-practice/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
