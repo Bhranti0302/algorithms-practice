@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Bhranti0302/algorithms-practice/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Bhranti0302/algorithms-practice/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Bhranti0302/algorithms-practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/0088-merge-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/Bhranti0302/algorithms-practice/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Bhranti0302/algorithms-practice/tree/master/0724-find-pivot-index) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhranti0302/algorithms-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bhranti0302/algorithms-practice/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Bhranti0302/algorithms-practice/tree/master/0066-plus-one) |
 | [0788-rotated-digits](https://github.com/Bhranti0302/algorithms-practice/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhranti0302/algorithms-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
