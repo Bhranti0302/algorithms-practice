@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bhranti0302/algorithms-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Bhranti0302/algorithms-practice/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bhranti0302/algorithms-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhranti0302/algorithms-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Bhranti0302/algorithms-practice/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/0088-merge-sorted-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bhranti0302/algorithms-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhranti0302/algorithms-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Bhranti0302/algorithms-practice/tree/master/2540-minimum-common-value) |
 ## Simulation
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2126-destroying-asteroids](https://github.com/Bhranti0302/algorithms-practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhranti0302/algorithms-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bhranti0302/algorithms-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
