@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1732-find-the-highest-altitude](https://github.com/Bhranti0302/algorithms-practice/tree/master/1732-find-the-highest-altitude) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Bhranti0302/algorithms-practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhranti0302/algorithms-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Bhranti0302/algorithms-practice/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Bhranti0302/algorithms-practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Bhranti0302/algorithms-practice/tree/master/1732-find-the-highest-altitude) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Bhranti0302/algorithms-practice/tree/master/3225-maximum-score-from-grid-operations) |
 ## Design
 |  |
