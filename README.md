@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1732-find-the-highest-altitude](https://github.com/Bhranti0302/algorithms-practice/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Bhranti0302/algorithms-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Bhranti0302/algorithms-practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhranti0302/algorithms-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/0088-merge-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Bhranti0302/algorithms-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Bhranti0302/algorithms-practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhranti0302/algorithms-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -176,10 +178,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Bhranti0302/algorithms-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Bhranti0302/algorithms-practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhranti0302/algorithms-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bhranti0302/algorithms-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Bhranti0302/algorithms-practice/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
