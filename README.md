@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Bhranti0302/algorithms-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bhranti0302/algorithms-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhranti0302/algorithms-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Bhranti0302/algorithms-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -59,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Bhranti0302/algorithms-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Bhranti0302/algorithms-practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhranti0302/algorithms-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Bhranti0302/algorithms-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Bhranti0302/algorithms-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Bhranti0302/algorithms-practice/tree/master/1732-find-the-highest-altitude) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Bhranti0302/algorithms-practice/tree/master/3225-maximum-score-from-grid-operations) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Bhranti0302/algorithms-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
 | ------- |
@@ -191,4 +195,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhranti0302/algorithms-practice/tree/master/1833-maximum-ice-cream-bars) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Bhranti0302/algorithms-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Bhranti0302/algorithms-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Bhranti0302/algorithms-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
