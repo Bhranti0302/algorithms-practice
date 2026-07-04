@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Bhranti0302/algorithms-practice/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/Bhranti0302/algorithms-practice/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Bhranti0302/algorithms-practice/tree/master/0796-rotate-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bhranti0302/algorithms-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Bhranti0302/algorithms-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bhranti0302/algorithms-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhranti0302/algorithms-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Bhranti0302/algorithms-practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhranti0302/algorithms-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bhranti0302/algorithms-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/Bhranti0302/algorithms-practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhranti0302/algorithms-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhranti0302/algorithms-practice/tree/master/2161-partition-array-according-to-given-pivot) |
