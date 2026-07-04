@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Bhranti0302/algorithms-practice/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Bhranti0302/algorithms-practice/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Bhranti0302/algorithms-practice/tree/master/0290-word-pattern) |
+| [0520-detect-capital](https://github.com/Bhranti0302/algorithms-practice/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Bhranti0302/algorithms-practice/tree/master/0796-rotate-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Bhranti0302/algorithms-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bhranti0302/algorithms-practice/tree/master/3120-count-the-number-of-special-characters-i) |
