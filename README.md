@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/0088-merge-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/Bhranti0302/algorithms-practice/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Bhranti0302/algorithms-practice/tree/master/0724-find-pivot-index) |
+| [1288-remove-covered-intervals](https://github.com/Bhranti0302/algorithms-practice/tree/master/1288-remove-covered-intervals) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bhranti0302/algorithms-practice/tree/master/0088-merge-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/Bhranti0302/algorithms-practice/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhranti0302/algorithms-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhranti0302/algorithms-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Bhranti0302/algorithms-practice/tree/master/2126-destroying-asteroids) |
